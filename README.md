@@ -15,5 +15,5 @@
 <h4>---fav school activities---</h4>
 <p>🟢performing arts/music</p>
 <h4>---red flags or something like that---</h4>
-<p>🔴people who overreact for no reason at all/people who unnecessary overreact/people->overreact</p>
+<p>🔴people who overreact for no reason at all/people who overreact unnecessarily/people->overreacting</p>
 <p>🔴and some other things</p>
